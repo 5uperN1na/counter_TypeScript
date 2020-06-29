@@ -1,4 +1,6 @@
-"use strict";
+
+
+
 var Counter = /** @class */ (function () {
     function Counter() {
         this.count = 100;
